@@ -1,0 +1,4 @@
+future considerations:
+
+1. add graphical user interface that allows user to select the range of data to be pulled and displayed
+2. expand collection of data from more than just light levels to allow it to make predictions of the environment
