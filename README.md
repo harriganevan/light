@@ -3,3 +3,5 @@ lumen uses a circuit constructed with photoresistors connected to a Raspberry Pi
 
 When the light.py file is run, it will continuously read a light value and store it in the database. This process will not end until the program is manually ended.
 Once ended, the graph.py program can be run and will display the data from the database.
+
+The images folder provides an image of the circuit used and an example of a graph created from data collected (low peaks represent low amounts of light, and high peaks represent high amounts of light).
